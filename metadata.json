@@ -1,0 +1,6 @@
+{
+  "name": "黄友情个人求职简历与GTM作品集",
+  "description": "黄友情（Youqing Huang）的时尚科技风个人求职网站。收录了她在小米生态链行车记录仪硬件GTM首发上市、跨国大牌（联合利华等）CCTV影视宣传方案的完整战绩，搭载智能AI助理提供即时面试问答互动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
