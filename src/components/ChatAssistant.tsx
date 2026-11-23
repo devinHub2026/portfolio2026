@@ -175,7 +175,7 @@ export default function ChatAssistant({ preFilledPrompt, onClearPreFilledPrompt,
               <div className="flex items-center space-x-3 text-left">
                 <div className="relative">
                   <img
-                    src="/src/assets/images/profile_portrait_1780939848564.png"
+                    src="/images/profile_portrait_1780939848564.png"
                     alt="Bot Profile Av"
                     className="w-10 h-10 rounded-full object-cover border border-white/10"
                     referrerPolicy="no-referrer"
@@ -222,7 +222,7 @@ export default function ChatAssistant({ preFilledPrompt, onClearPreFilledPrompt,
                           : 'bg-[#3b82f6] border-blue-600 text-white'
                       }`}>
                         {isModel ? (
-                          <img src="/src/assets/images/profile_portrait_1780939848564.png" referrerPolicy="no-referrer" alt="bot avatar" className="w-full h-full object-cover" />
+                          <img src="/images/profile_portrait_1780939848564.png" referrerPolicy="no-referrer" alt="bot avatar" className="w-full h-full object-cover" />
                         ) : (
                           <User size={13} />
                         )}

@@ -102,7 +102,7 @@ export default function ProjectShowcaseSlider({ lang, onPreFillChat, onViewProje
       badgeZh: '极客潮流IP化',
       badgeEn: 'IP Ecosystem',
       mockupType: 'mascot',
-      image: '/src/assets/images/xinjiang_desert_1780977231997.png',
+      image: '/images/xinjiang_desert_1780977231997.png',
       highlightsZh: [
         '从0到1架构70mai国际官网设计 with 4K影像沉浸展示流',
         '主创潮流星际小熊 MaiX 3D表情、实体安全测试与香氛周边',
@@ -130,7 +130,7 @@ export default function ProjectShowcaseSlider({ lang, onPreFillChat, onViewProje
       badgeZh: '央视黄金展播',
       badgeEn: 'Cinematic TVC',
       mockupType: 'tvc',
-      image: '/src/assets/images/maix_mascot_1780977248089.png',
+      image: '/images/maix_mascot_1780977248089.png',
       highlightsZh: [
         '主笔德业明星代言高级TVC，并成功于CCTV央视黄金时间展播',
         '为联合利华LUX、OMO奥妙定制剧情微电影、抖音挑战赛脚本',

@@ -33,7 +33,7 @@ export const projectsEN: Project[] = [
     tags: ['Product Planning', 'IMC', 'Mijia Ecosystem', 'Security Line'],
     bgGradient: 'from-cyan-900/40 via-slate-900 to-black',
     imageType: 'dashcam',
-    image: '/src/assets/images/dashcam_a810_1780977202798.png'
+    image: '/images/dashcam_a810_1780977202798.png'
   },
   {
     id: 'proj_70mai_gtm',
@@ -75,7 +75,7 @@ export const projectsEN: Project[] = [
     tags: ['Mascot Design', 'Web Production', 'Community Growth', 'Private Domain'],
     bgGradient: 'from-orange-950/40 via-stone-900 to-black',
     imageType: 'organic',
-    image: '/src/assets/images/xinjiang_desert_1780977231997.png'
+    image: '/images/xinjiang_desert_1780977231997.png'
   },
   {
     id: 'proj_tvc_4a',
@@ -96,7 +96,7 @@ export const projectsEN: Project[] = [
     tags: ['CCTV Slot', '4A Copywriting', 'Unilever LUX', 'Deye Star TVC'],
     bgGradient: 'from-violet-900/40 via-zinc-950 to-black',
     imageType: 'unilever',
-    image: '/src/assets/images/maix_mascot_1780977248089.png'
+    image: '/images/maix_mascot_1780977248089.png'
   }
 ];
 

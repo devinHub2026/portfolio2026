@@ -8,7 +8,9 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   }
 
   try {
-    const { messages } = req.body as { messages?: ChatMessage[] };
+    const body: { messages?: ChatMessage[] } =
+      typeof req.body === "string" ? JSON.parse(req.body || "{}") : req.body || {};
+    const { messages } = body;
     if (!messages || !Array.isArray(messages)) {
       res.status(400).json({ error: "Invalid request body." });
       return;
